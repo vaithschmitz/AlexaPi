@@ -73,7 +73,7 @@ triggers:
     enabled: true
     voice_confirm: true
 
-    phrase: "hey workshop"
+    phrase: "idealab"
     threshold: 1e-10
 
   snowboy:
