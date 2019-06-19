@@ -73,7 +73,7 @@ triggers:
     enabled: true
     voice_confirm: true
 
-    phrase: "workshop"
+    phrase: "alexa"
     
     # Threshold must be tuned for every keyphrase on a test data to get the right balance missed detections and false alarms. 
     # You can try values like 1e-5 (less false positives, harder to recognise) to 1e-50 (more false positives, easier to recognise).
